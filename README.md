@@ -8,7 +8,7 @@ The script processes CSV files containing stock price data, samples a subset of 
 # Prerequisites  
 -clone this repository
 -make sure you have Python installed (python 3.13 was used in the project)
--run the command pip install pandas
+-run the command pip install pandas to install the dependencies
 
 # How to Run
 Prepare the input data: Place the historical stock price CSV files in the /data/input/ directory. Each CSV file should contain data in the following format:
